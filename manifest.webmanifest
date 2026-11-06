@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "쉼 · 온라인 기도실",
+  "short_name": "쉼 기도실",
+  "description": "자연 속에서 말씀을 묵상하고 익명으로 함께 기도하는 온라인 기도실",
+  "lang": "ko",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f5ee",
+  "theme_color": "#385b48",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
